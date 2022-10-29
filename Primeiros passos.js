@@ -13,4 +13,4 @@
 * Validação se tem uma OU outra informação
 * Validação de dados inputados junto ao banco de dados
 * Operações matemáticas
-* Operações com stri
+* Operações com string
