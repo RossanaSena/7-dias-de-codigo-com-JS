@@ -1,16 +1,8 @@
-/*Principios básicos do JavaScript
+/*Igualdade entre valores*/
 
-- Conhecer e entender os tipos de dados
-
-* Number
-* String
-* Boolean
-
-- Operadores
-
-* Comparação
-* Validação de todas as informações
-* Validação se tem uma OU outra informação
-* Validação de dados inputados junto ao banco de dados
-* Operações matemáticas
-* Operações com string
+let numeroUm = 1
+let stringUm = '1'
+let numeroTrinta = 30
+let stringTrinta = '30'
+let numeroDez = 10
+let stringDez = '10'
