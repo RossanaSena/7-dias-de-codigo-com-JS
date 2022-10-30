@@ -24,3 +24,6 @@ if (numeroDez == stringDez) {
 } else {
     console.log('As variáveis numeroDez e stringDez não tem o mesmo valor');
 }
+
+/*node comparacao de valores e tipos.js*/
+
