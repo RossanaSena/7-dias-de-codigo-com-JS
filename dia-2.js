@@ -7,10 +7,8 @@ alert(msg);
 
 const sim = prompt(`Você gosta de estudar ${linguagem}? Responda com o número 1 - SIM ou 2 - NÃO`);
 if (sim == 1){
-    console.log ("Muito bom! Continue estudando e você terá muito sucesso.");
+    alert("Muito bom! Continue estudando e você terá muito sucesso.");
 }
-if (nao == 2){
-    console.log ("Ahh que pena... Já tentou aprender outras linguagens?");
+else{
+    alert("Ahh que pena... Tente conhecer outras linguagens");
 }
-
-/*node dia-2.js*/
